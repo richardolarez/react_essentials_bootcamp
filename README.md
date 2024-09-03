@@ -1,2 +1,2 @@
-# react_essentials_bootcamp
-React Essentials Bootcamp project with Big Nerd Ranch
+# bnr_CodeCafe
+Code Cafe Project with Tech Bootcamp
